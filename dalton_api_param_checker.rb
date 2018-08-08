@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def usage
   puts "Dalton Api Param Checker reads a CSV dump from a Sumo CSV file of JSON messages and compiles all params passed."
   puts "USAGE  : dalton_api_param_checker <file_name>"
